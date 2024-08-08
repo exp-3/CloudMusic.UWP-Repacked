@@ -20,8 +20,8 @@
 
 1. 下载与处理器类型相对应的框架包，并安装它们。
 
--  [X64 / AMD64 / EM64T](../../tree/main/dependencies/x64)
--  [X86](../../tree/main/dependencies/x86)
--  [ARM / ARM64](../../tree/main/dependencies/arm)
+-  [X64 / AMD64 / EM64T](../../../tree/main/dependencies/x64)
+-  [X86](../../../tree/main/dependencies/x86)
+-  [ARM / ARM64](../../../tree/main/dependencies/arm)
 
 2. 再次尝试安装网易云音乐 UWP。
