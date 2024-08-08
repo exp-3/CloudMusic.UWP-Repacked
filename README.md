@@ -1,10 +1,9 @@
-<div style="z-index: 666;">
 <img src="https://user-images.githubusercontent.com/26399680/47980314-0e3f1700-e102-11e8-8857-e3436ecc8beb.png" alt="logo" width="140" height="140" align="right" />
-</div>
+
+### &nbsp;
 
 # 🎼 CloudMusic.UWP-Repacked 🚀
 
-&nbsp;
 &nbsp;
 
 ## 简介
@@ -16,7 +15,7 @@
 -  本项目只是在原版软件的基础上进行了简单地重新打包以避免更新，未修改或增加任何程序代码，请放心使用。
 
 > [!IMPORTANT]
-> 本软件**不提供**任何 VIP 音源破解等服务, 你需要在对应平台取得相应会员身份才能进行播放。<br />
+> 本软件**不提供**任何 VIP 音源破解等服务, 您需要在对应平台取得相应会员身份才能进行播放。<br />
 > 所有内容资源 _(包括但不限于音频、图片等)_ 版权归网易云音乐所有。<br />
 > 本软件仅学习交流使用，请勿用于用于商业用途。如有侵权,请发 Issue 提出。<br />
 > 使用此应用即代表您同意 [网易云音乐服务条款](https://st.music.163.com/official-terms/service) 以及 [网易云音乐隐私政策](https://st.music.163.com/official-terms/privacy) 。
