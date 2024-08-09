@@ -39,3 +39,9 @@
    `%USERPROFILE%\AppData\Local\Packages\cloudmusic.uwp_6p888gkwt396e\LocalState\download\music`
 
 ![设置路径示意图](setpath.jpg)
+
+> [!IMPORTANT]
+> 本项目附带的配套工具包可能会被某些比较敏感的安全软件视为威胁。
+> 因为工具包需要管理员权限，但没有数字签名因此不被充分信任。
+> 但这确实是彻头彻尾的误报，主流安全软件都认为它是安全的。
+> ~~说白了就是钱的问题，花几万块买个代码签名就能解决。卖签名的也就是网安行业那帮人。~~ 
