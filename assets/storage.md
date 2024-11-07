@@ -3,9 +3,9 @@
 在 22H2 及更高版本的 Windows11 中下载音乐时提示文件存储失败。、
 
 > [!IMPORTANT]
-> 本项目附带的配套工具包可能会被某些比较敏感的安全软件视为威胁。<br />
+> 本项目附带的配套工具包可能会被某些比较敏感的安全程序视为威胁。<br />
 > 我们的工具包需要管理员权限来修改权限，但因没有数字签名不被充分信任。<br />
-> 但这确实是彻头彻尾的误报，脚本源码可直接查看，且大部分主流杀毒都认为它是安全的。<br />
+> 但这确实是彻头彻尾的误报，脚本源码可直接查看，且大多数主流杀毒软件都认为它是安全的。<br />
 > ~~说白了就是钱的问题，花几万块买个代码签名就能解决。卖签名的也就是网安行业那帮人。~~
 
 &nbsp;<br />
@@ -16,7 +16,7 @@
 > [!TIP]
 > 实现原理：修改特定文件夹权限，使其可被软件访问
 
-1. 下载 [配套工具包](https://github.com/exp-3/CloudMusic.UWP-Tools/archive/dbb93c60c3dd9c634484ee1610f80d17dd66c02a.zip) ，务必解压缩所有文件 _(不要在压缩包内打开)_
+1. 下载 [配套工具包](https://github.com/exp-3/CloudMusic.UWP-Tools/archive/refs/heads/main.zip) ，务必解压缩所有文件 _(不要在压缩包内打开)_
 
 2. 双击打开`授权访问外部路径.vbs`
 
@@ -35,7 +35,7 @@
 > [!TIP]
 > 实现原理：请参见 [issue](https://github.com/JasonWei512/NetEase-Cloud-Music-UWP-Repack/issues/24)
 
-1. 下载 [配套工具包](https://github.com/exp-3/CloudMusic.UWP-Tools/archive/dbb93c60c3dd9c634484ee1610f80d17dd66c02a.zip) ，务必解压缩所有文件 (不要在压缩包内打开)
+1. 下载 [配套工具包](https://github.com/exp-3/CloudMusic.UWP-Tools/archive/refs/heads/main.zip) ，务必解压缩所有文件 (不要在压缩包内打开)
 
 2. 双击运行`改用内部下载路径.vbs`<br />
    如果提示权限不足，请关闭云音乐软件后尝试以管理员身份再次运行此 vbs 脚本。
